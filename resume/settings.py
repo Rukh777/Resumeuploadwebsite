@@ -26,9 +26,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '0al3%e$)84g$a(vpmnt8+o-a^oz%n)%er3f#o54_r1z!j#nb9a'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['resumeuploaderwebsite.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['resumeuploadwebsite.herokuapp.com','127.0.0.1']
 
 
 # Application definition
